@@ -7,7 +7,7 @@
 
 ## All Projects
 
-| Project Name |  Description  |  Screenshot  |
+| Project Name |  Description  |  DEMO  |
 | :---         |     :---:     |  :---: |
 | Courier Website | This is a single page website | <a href="https://github.com/mahibur01/courier-website"> <img src="https://github.com/mahibur01/courier-website/raw/main/courier-website.png" alt="courierWebsite"  width="400" height="200"></a>|
 <!-- | Login-Logout-session | Login-Logout functionality by PHP | <a href="https://github.com/mahibur01/login-logout-session"> <img src="https://github.com/mahibur01/Login-Logout-session/blob/master/login_logout.jpg?raw=true" alt="phpLoging"  width="400" height="200"></a>|
